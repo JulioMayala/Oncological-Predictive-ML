@@ -1,0 +1,1001 @@
+id,type,subtype,has_cancer
+4461833426252244173,Colon Cancer,Small Cell,Yes
+1000683224789192370,Lung Cancer,Acral Lentiginous,Yes
+8840606545607332094,Prostate Cancer,Triple Negative,Yes
+8282056536184744698,Breast Cancer,Acral Lentiginous,Yes
+8371088148716749466,Breast Cancer,Lobular Carcinoma,Yes
+2133645987423125342,Breast Cancer,Nodular,Yes
+3776378320228108504,Lung Cancer,Small Cell Carcinoma,Yes
+6818534869666968535,Lung Cancer,Inflammatory,Yes
+8264569795952860311,Melanoma,Inflammatory,Yes
+2422700752319778002,Melanoma,Lobular Carcinoma,Yes
+2920578832851504516,Lung Cancer,Inflammatory,Yes
+5365382659584035135,Melanoma,Non,Yes
+3702122274384450152,Melanoma,Lentigo Maligna,Yes
+5956489455542359056,Lung Cancer,Non,Yes
+940047350842054789,Colon Cancer,Non,Yes
+4629851684781320644,Lung Cancer,Superficial Spreading,Yes
+502421844988498862,Melanoma,Lobular Carcinoma,Yes
+2654247261343253424,Melanoma,Carcinoid,Yes
+6598623449172792397,Lung Cancer,Superficial Spreading,Yes
+2187676849167778550,Lung Cancer,Lobular Carcinoma,Yes
+286536946614033236,Breast Cancer,Carcinoid,Yes
+6481365355731983831,Lung Cancer,Acral Lentiginous,Yes
+1024901111823563731,No Cancer,No cáncer,No
+5285640302528660179,Colon Cancer,Neuroendocrine Tumors,Yes
+4625222803912898954,Colon Cancer,Non,Yes
+5764400391481378045,Colon Cancer,Adenocarcinoma,Yes
+8743688805546797179,Lung Cancer,Squamous Cell,Yes
+6288952574292437496,Prostate Cancer,Acral Lentiginous,Yes
+5486500567742613239,Lung Cancer,Squamous Cell,Yes
+4839282236579722710,Breast Cancer,Gastrointestinal Stromal,Yes
+8549441998328048694,Prostate Cancer,Lentigo Maligna,Yes
+2796586064112925356,Melanoma,Triple Negative,Yes
+9039414321367031617,Prostate Cancer,Lentigo Maligna,Yes
+5263649338019679306,Breast Cancer,Superficial Spreading,Yes
+5850476922669772538,Colon Cancer,Inflammatory,Yes
+4044004562300035174,No Cancer,No cáncer,No
+4265253543639269648,Breast Cancer,Carcinoid,Yes
+8491698723942932076,Breast Cancer,Squamous Cell,Yes
+4070675198945565894,Breast Cancer,Neuroendocrine Tumors,Yes
+6210021179462824936,Breast Cancer,Non,Yes
+5861466244014078195,Colon Cancer,Small Cell Carcinoma,Yes
+1797588407148151694,Melanoma,Carcinoid,Yes
+2743557865536242425,Lung Cancer,Squamous Cell,Yes
+1210598219922517678,Prostate Cancer,Acral Lentiginous,Yes
+4444794678295955537,Colon Cancer,Ductal Carcinoma,Yes
+2234653294089008933,Breast Cancer,Carcinoid,Yes
+2287482175665883509,Prostate Cancer,Acral Lentiginous,Yes
+2483856073191875626,Prostate Cancer,Small Cell Carcinoma,Yes
+7729411119272170894,Melanoma,Adenocarcinoma,Yes
+2045353015278636471,Melanoma,Nodular,Yes
+8380765828689034264,Melanoma,Neuroendocrine Tumors,Yes
+1820361440375838907,Breast Cancer,Triple Negative,Yes
+514716409270880241,Breast Cancer,Acral Lentiginous,Yes
+2451574994658430252,Prostate Cancer,Non,Yes
+1747427955343368148,Lung Cancer,Squamous Cell,Yes
+473064806408593097,Breast Cancer,Small Cell Carcinoma,Yes
+5961391884623673436,Melanoma,Lobular Carcinoma,Yes
+4461938432734773445,Melanoma,Acral Lentiginous,Yes
+5127032135899262661,Lung Cancer,Adenocarcinoma,Yes
+4664940901443713691,Prostate Cancer,Superficial Spreading,Yes
+6277832815390428666,Lung Cancer,Squamous Cell,Yes
+857388400755977564,Prostate Cancer,Ductal Carcinoma,Yes
+8862792338654254486,Colon Cancer,Inflammatory,Yes
+2220896119417436182,Lung Cancer,Non,Yes
+5316022055931791631,Lung Cancer,Superficial Spreading,Yes
+4285815464794719883,Prostate Cancer,Carcinoid,Yes
+8145095965335477326,Breast Cancer,Lobular Carcinoma,Yes
+5049715806775404927,Melanoma,Carcinoid,Yes
+6702135897245536562,Colon Cancer,Gastrointestinal Stromal,Yes
+3389811497353231687,Breast Cancer,Small Cell Carcinoma,Yes
+4251903693770909241,Colon Cancer,Inflammatory,Yes
+5985336756131365396,Melanoma,Gastrointestinal Stromal,Yes
+1156217780513341525,Lung Cancer,Small Cell Carcinoma,Yes
+5999122774996497766,Breast Cancer,Inflammatory,Yes
+6918573637394710269,Prostate Cancer,Lentigo Maligna,Yes
+1489927840936107061,Colon Cancer,Small Cell,Yes
+3237116832987012764,Breast Cancer,Neuroendocrine Tumors,Yes
+8132336042820311854,Melanoma,Neuroendocrine Tumors,Yes
+8412253170537034293,Breast Cancer,Carcinoid,Yes
+650043607217027541,Melanoma,Neuroendocrine Tumors,Yes
+8145092351443196149,Lung Cancer,Inflammatory,Yes
+8898789665692736567,Colon Cancer,Carcinoid,Yes
+817753656040570727,Melanoma,Acral Lentiginous,Yes
+5789441989228156989,Lung Cancer,Adenocarcinoma,Yes
+3416711589025909981,Breast Cancer,Gastrointestinal Stromal,Yes
+8083763673627366092,Lung Cancer,Nodular,Yes
+7093839228680996983,Melanoma,Inflammatory,Yes
+4726852130219376551,Prostate Cancer,Inflammatory,Yes
+6088993300794286839,Breast Cancer,Small Cell,Yes
+8615433672635163726,Lung Cancer,Lentigo Maligna,Yes
+417188089500355736,Prostate Cancer,Superficial Spreading,Yes
+2673285189276344436,Breast Cancer,Gastrointestinal Stromal,Yes
+1624291359405874547,Breast Cancer,Ductal Carcinoma,Yes
+2956165837834796977,Breast Cancer,Non,Yes
+304651257926590935,Melanoma,Inflammatory,Yes
+230690318858125450,Colon Cancer,Ductal Carcinoma,Yes
+7274118843615978332,Lung Cancer,Ductal Carcinoma,Yes
+1560372315604644849,Colon Cancer,Ductal Carcinoma,Yes
+3901935883342034585,Colon Cancer,Neuroendocrine Tumors,Yes
+2739183011016108767,Melanoma,Gastrointestinal Stromal,Yes
+3609929865979461455,Lung Cancer,Ductal Carcinoma,Yes
+1112450128494923536,Colon Cancer,Lentigo Maligna,Yes
+9021040269701061623,Melanoma,Superficial Spreading,Yes
+7839628126790277688,Colon Cancer,Acral Lentiginous,Yes
+839081435333870566,Lung Cancer,Gastrointestinal Stromal,Yes
+6246980030134674622,Prostate Cancer,Lentigo Maligna,Yes
+1941422947699040538,Breast Cancer,Lobular Carcinoma,Yes
+2988729584241660233,Breast Cancer,Superficial Spreading,Yes
+2844085272621232619,Breast Cancer,Lobular Carcinoma,Yes
+3614497388915905399,Breast Cancer,Ductal Carcinoma,Yes
+6745961739735878538,Colon Cancer,Nodular,Yes
+1948005805234787008,Lung Cancer,Carcinoid,Yes
+1051815239528945343,Melanoma,Non,Yes
+3458793498716194363,Breast Cancer,Non,Yes
+1297970894270824990,Colon Cancer,Lobular Carcinoma,Yes
+2359092394828532199,Colon Cancer,Ductal Carcinoma,Yes
+6909425740523440117,Melanoma,Lobular Carcinoma,Yes
+900794036544730217,Prostate Cancer,Lobular Carcinoma,Yes
+1594871061931111065,Lung Cancer,Acral Lentiginous,Yes
+9192381661293536548,Colon Cancer,Small Cell,Yes
+1680939055257376590,Prostate Cancer,Squamous Cell,Yes
+4003361054173405852,Prostate Cancer,Small Cell Carcinoma,Yes
+2838595697764725560,Prostate Cancer,Carcinoid,Yes
+2359984696112182183,Lung Cancer,Squamous Cell,Yes
+2693613237117952805,Melanoma,Squamous Cell,Yes
+1040792587491608196,Colon Cancer,Small Cell,Yes
+8525177558255510672,Breast Cancer,Ductal Carcinoma,Yes
+6061801791181662451,Lung Cancer,Lobular Carcinoma,Yes
+1300050699180153757,Lung Cancer,Gastrointestinal Stromal,Yes
+9064816066295024679,Lung Cancer,Squamous Cell,Yes
+5573646713748532900,Prostate Cancer,Adenocarcinoma,Yes
+313815021345746690,Prostate Cancer,Superficial Spreading,Yes
+4622695374174267457,Prostate Cancer,Gastrointestinal Stromal,Yes
+2189884437934596105,Colon Cancer,Inflammatory,Yes
+2741619506428376961,Melanoma,Lentigo Maligna,Yes
+5149167914910129028,Prostate Cancer,Superficial Spreading,Yes
+6815972680772176800,Breast Cancer,Small Cell Carcinoma,Yes
+91684846060244405,Lung Cancer,Ductal Carcinoma,Yes
+8900298888812484110,Breast Cancer,Inflammatory,Yes
+6135220365778823567,Prostate Cancer,Small Cell Carcinoma,Yes
+7588467838996640825,Colon Cancer,Lobular Carcinoma,Yes
+4823485370995951899,Prostate Cancer,Acral Lentiginous,Yes
+9173536415229213120,Melanoma,Neuroendocrine Tumors,Yes
+6136878261513903185,Melanoma,Lentigo Maligna,Yes
+7113167780237908301,Breast Cancer,Nodular,Yes
+2101634128524483270,Melanoma,Small Cell,Yes
+5093303639849098544,Lung Cancer,Adenocarcinoma,Yes
+9155215485662656293,Prostate Cancer,Superficial Spreading,Yes
+8000495646455793317,Breast Cancer,Adenocarcinoma,Yes
+3062587420060688921,Lung Cancer,Small Cell,Yes
+5085061580143086,Prostate Cancer,Triple Negative,Yes
+4576689316085066629,Breast Cancer,Inflammatory,Yes
+6421998604289061851,Lung Cancer,Squamous Cell,Yes
+5734128809843665875,Breast Cancer,Non,Yes
+4264092010364264384,Melanoma,Small Cell Carcinoma,Yes
+6209987664445169453,Melanoma,Small Cell,Yes
+2856560640866862573,Melanoma,Squamous Cell,Yes
+8447142803462550052,Lung Cancer,Neuroendocrine Tumors,Yes
+6065774045109685103,Melanoma,Small Cell,Yes
+5263309426117243431,Lung Cancer,Neuroendocrine Tumors,Yes
+7267897892700554189,Melanoma,Squamous Cell,Yes
+1031855031322936461,Melanoma,Small Cell,Yes
+6898571152147587094,Lung Cancer,Neuroendocrine Tumors,Yes
+8844643131975702477,Breast Cancer,Non,Yes
+2005314696741475527,Colon Cancer,Carcinoid,Yes
+3448455634598621630,Colon Cancer,Non,Yes
+8935321679317841421,Colon Cancer,Carcinoid,Yes
+6565449957356618173,Melanoma,Lobular Carcinoma,Yes
+4266506377471401538,Colon Cancer,Inflammatory,Yes
+7092201231541027425,Melanoma,Small Cell Carcinoma,Yes
+991772295713001882,Colon Cancer,Small Cell,Yes
+8199093864721393818,Prostate Cancer,Nodular,Yes
+7013142709280915738,Colon Cancer,Small Cell,Yes
+5898595221949577887,Colon Cancer,Ductal Carcinoma,Yes
+8646249689394547104,Melanoma,Superficial Spreading,Yes
+4727594971611746648,Melanoma,Lobular Carcinoma,Yes
+2072756749632496011,Colon Cancer,Carcinoid,Yes
+8608401045003276123,Breast Cancer,Superficial Spreading,Yes
+1345596626282504325,Melanoma,Carcinoid,Yes
+1515441461396413393,Colon Cancer,Neuroendocrine Tumors,Yes
+6531115324233717876,Breast Cancer,Lobular Carcinoma,Yes
+8220389350892790142,Colon Cancer,Squamous Cell,Yes
+6744633599564824121,Breast Cancer,Ductal Carcinoma,Yes
+8953455103211275979,Prostate Cancer,Lentigo Maligna,Yes
+2272496073064649612,Melanoma,Lentigo Maligna,Yes
+2438796364616992665,Colon Cancer,Nodular,Yes
+2997711473388591330,No Cancer,No cáncer,No
+7306379997467398691,Breast Cancer,Superficial Spreading,Yes
+2397536039642485957,Prostate Cancer,Squamous Cell,Yes
+5881708253608221436,Colon Cancer,Lobular Carcinoma,Yes
+1847697281245514413,Melanoma,Adenocarcinoma,Yes
+494708393443806793,Prostate Cancer,Lentigo Maligna,Yes
+4975986041646107065,Melanoma,Small Cell Carcinoma,Yes
+3306256535336263450,Prostate Cancer,Gastrointestinal Stromal,Yes
+8969672007817201631,Colon Cancer,Triple Negative,Yes
+1311250702759995917,Colon Cancer,Carcinoid,Yes
+7211808514926651983,Lung Cancer,Small Cell,Yes
+3897279688511760806,Colon Cancer,Small Cell,Yes
+3034656762126511857,Colon Cancer,Small Cell Carcinoma,Yes
+7594990477024762678,Lung Cancer,Superficial Spreading,Yes
+1293964690195402201,Melanoma,Squamous Cell,Yes
+4831567688980966341,Breast Cancer,Carcinoid,Yes
+8846462500846377498,No Cancer,No cáncer,No
+91463185351703650,No Cancer,No cáncer,No
+2439155346614776657,Colon Cancer,Nodular,Yes
+4779026636277310242,Breast Cancer,Superficial Spreading,Yes
+2475680328921061641,Colon Cancer,Neuroendocrine Tumors,Yes
+1815674219138702398,Prostate Cancer,Small Cell Carcinoma,Yes
+1006277256699546083,Prostate Cancer,Triple Negative,Yes
+5885821655465089577,Breast Cancer,Small Cell Carcinoma,Yes
+1890571976107323987,Lung Cancer,Adenocarcinoma,Yes
+5100875618294490345,Lung Cancer,Gastrointestinal Stromal,Yes
+7611597808370374272,Lung Cancer,Neuroendocrine Tumors,Yes
+6236184540899869605,Colon Cancer,Carcinoid,Yes
+308815871374267381,Melanoma,Squamous Cell,Yes
+8683147497332754950,Melanoma,Squamous Cell,Yes
+6817020335381270073,Prostate Cancer,Inflammatory,Yes
+7938781791791458071,Lung Cancer,Neuroendocrine Tumors,Yes
+1190620489010257077,Lung Cancer,Squamous Cell,Yes
+5723494605539355715,Breast Cancer,Gastrointestinal Stromal,Yes
+4654075476285227037,Melanoma,Adenocarcinoma,Yes
+8676993617565294137,Prostate Cancer,Lobular Carcinoma,Yes
+5140526787003541315,Lung Cancer,Carcinoid,Yes
+5826920821513035388,Lung Cancer,Triple Negative,Yes
+9219107875700438632,Colon Cancer,Carcinoid,Yes
+441368239913599262,No Cancer,No cáncer,No
+7853609494849086726,Prostate Cancer,Squamous Cell,Yes
+8876723548380600742,Colon Cancer,Inflammatory,Yes
+5816983244783644536,Lung Cancer,Gastrointestinal Stromal,Yes
+3184399376558437825,Breast Cancer,Superficial Spreading,Yes
+3200722895330839438,Prostate Cancer,Superficial Spreading,Yes
+5272006212805951017,Colon Cancer,Lobular Carcinoma,Yes
+7333326514793641839,Breast Cancer,Inflammatory,Yes
+658911956929267404,Breast Cancer,Lentigo Maligna,Yes
+701845261266335349,Lung Cancer,Nodular,Yes
+6836417427883494243,Colon Cancer,Adenocarcinoma,Yes
+6148828230708455684,Colon Cancer,Inflammatory,Yes
+6684082595922477167,Breast Cancer,Inflammatory,Yes
+5760511420342432729,Melanoma,Lentigo Maligna,Yes
+363155415033160457,Lung Cancer,Nodular,Yes
+5148394130063945177,Prostate Cancer,Carcinoid,Yes
+1701844623710607312,Breast Cancer,Adenocarcinoma,Yes
+2134016224547860279,Prostate Cancer,Neuroendocrine Tumors,Yes
+6387415838000862761,Colon Cancer,Lobular Carcinoma,Yes
+8707946670080414691,Lung Cancer,Superficial Spreading,Yes
+8250697831697286807,Melanoma,Carcinoid,Yes
+8883776689408539891,Melanoma,Squamous Cell,Yes
+5649369371870082229,Lung Cancer,Triple Negative,Yes
+3138059333532954003,Breast Cancer,Superficial Spreading,Yes
+8155730282478455662,Breast Cancer,Triple Negative,Yes
+8071679029168463292,Prostate Cancer,Small Cell Carcinoma,Yes
+6379702397958562592,Prostate Cancer,Nodular,Yes
+4213006493356080163,Prostate Cancer,Nodular,Yes
+2071710086254307949,Lung Cancer,Nodular,Yes
+5104430285380436717,Lung Cancer,Lobular Carcinoma,Yes
+284384740126264540,Colon Cancer,Superficial Spreading,Yes
+4870739415685067100,Breast Cancer,Superficial Spreading,Yes
+3305321172466841722,Melanoma,Triple Negative,Yes
+587909224933930731,Melanoma,Small Cell,Yes
+4881190715083939879,Breast Cancer,Squamous Cell,Yes
+2213832579328048289,Colon Cancer,Nodular,Yes
+1868365471778999446,Breast Cancer,Non,Yes
+4598436586629864237,Prostate Cancer,Nodular,Yes
+1008905698280162676,Colon Cancer,Ductal Carcinoma,Yes
+7010732581437737747,Lung Cancer,Acral Lentiginous,Yes
+4331128464154765028,Melanoma,Neuroendocrine Tumors,Yes
+4169309593871802741,Melanoma,Inflammatory,Yes
+2209260091031674358,Melanoma,Squamous Cell,Yes
+4969660070624545093,No Cancer,No cáncer,No
+6012937721799460900,Colon Cancer,Inflammatory,Yes
+2490645598663802147,No Cancer,No cáncer,No
+8947276461343378165,Prostate Cancer,Small Cell Carcinoma,Yes
+5177633403902420549,Colon Cancer,Adenocarcinoma,Yes
+4587027791451114930,Lung Cancer,Inflammatory,Yes
+1953397511463763420,Prostate Cancer,Gastrointestinal Stromal,Yes
+5779661931695665354,Colon Cancer,Inflammatory,Yes
+854266785752511388,Prostate Cancer,Superficial Spreading,Yes
+2120599759100137100,Breast Cancer,Inflammatory,Yes
+1737704319798590610,Prostate Cancer,Squamous Cell,Yes
+1088785410177119655,Prostate Cancer,Gastrointestinal Stromal,Yes
+6003708554933673145,Prostate Cancer,Gastrointestinal Stromal,Yes
+5821308756588009940,Melanoma,Lentigo Maligna,Yes
+3073462692626177482,Breast Cancer,Small Cell,Yes
+8700844357832310390,Melanoma,Lobular Carcinoma,Yes
+3365192278465447230,Colon Cancer,Superficial Spreading,Yes
+4095328658673497410,Breast Cancer,Small Cell,Yes
+1723149872228591437,Melanoma,Lobular Carcinoma,Yes
+2520258557906398607,Melanoma,Adenocarcinoma,Yes
+7456336694638936939,Prostate Cancer,Nodular,Yes
+6744082536112188381,Prostate Cancer,Squamous Cell,Yes
+6534375416697498696,Melanoma,Triple Negative,Yes
+5371538289019444741,Colon Cancer,Lentigo Maligna,Yes
+7657140214424934526,Colon Cancer,Carcinoid,Yes
+33641634883540436,Prostate Cancer,Small Cell,Yes
+3099389145794962785,Lung Cancer,Squamous Cell,Yes
+9040469460217080942,Breast Cancer,Squamous Cell,Yes
+236053959980724398,Colon Cancer,Gastrointestinal Stromal,Yes
+8364383179743904116,Colon Cancer,Neuroendocrine Tumors,Yes
+1848321235046748426,Breast Cancer,Superficial Spreading,Yes
+4951199094050668468,Lung Cancer,Lentigo Maligna,Yes
+1748951016387619017,Melanoma,Acral Lentiginous,Yes
+4968274483738794,Colon Cancer,Nodular,Yes
+7356430396115929493,Prostate Cancer,Adenocarcinoma,Yes
+724494042930262345,Melanoma,Nodular,Yes
+202625246821575006,Lung Cancer,Small Cell Carcinoma,Yes
+3167884682984767478,Breast Cancer,Lentigo Maligna,Yes
+821639877872213523,Colon Cancer,Triple Negative,Yes
+674041690724563336,Prostate Cancer,Carcinoid,Yes
+3527883468332029336,Lung Cancer,Nodular,Yes
+3092419505564319131,Prostate Cancer,Carcinoid,Yes
+4205722443139416699,Breast Cancer,Superficial Spreading,Yes
+6049395420887785585,Breast Cancer,Triple Negative,Yes
+5830485170139045729,Melanoma,Ductal Carcinoma,Yes
+7810969880778649949,Lung Cancer,Triple Negative,Yes
+8310187651309683264,Melanoma,Carcinoid,Yes
+4788878622879500460,Lung Cancer,Gastrointestinal Stromal,Yes
+645924268876270384,Breast Cancer,Inflammatory,Yes
+2158685983751157493,Colon Cancer,Neuroendocrine Tumors,Yes
+2738500983954818302,Colon Cancer,Small Cell Carcinoma,Yes
+6260521175932507680,Lung Cancer,Acral Lentiginous,Yes
+6044401087414571528,Colon Cancer,Triple Negative,Yes
+8505853411221816083,Colon Cancer,Gastrointestinal Stromal,Yes
+7217161759100202311,Prostate Cancer,Ductal Carcinoma,Yes
+720541913436980758,Prostate Cancer,Neuroendocrine Tumors,Yes
+7390138184651712466,Lung Cancer,Neuroendocrine Tumors,Yes
+6827886372011546418,Prostate Cancer,Carcinoid,Yes
+6816092156445372508,Prostate Cancer,Lobular Carcinoma,Yes
+7117573961375920636,Colon Cancer,Small Cell Carcinoma,Yes
+3386250832881267112,Melanoma,Carcinoid,Yes
+7316920853086984263,Prostate Cancer,Acral Lentiginous,Yes
+6656769812558795733,Melanoma,Acral Lentiginous,Yes
+6822068582784494081,Lung Cancer,Nodular,Yes
+7141999626618756925,Colon Cancer,Ductal Carcinoma,Yes
+1504112013837470798,Colon Cancer,Squamous Cell,Yes
+8142093178321116805,Breast Cancer,Superficial Spreading,Yes
+136700056019929199,Prostate Cancer,Nodular,Yes
+6469629144168827895,Melanoma,Acral Lentiginous,Yes
+6051687389720790383,Lung Cancer,Lentigo Maligna,Yes
+6926475839972975557,Breast Cancer,Lentigo Maligna,Yes
+3420663352354619023,Prostate Cancer,Adenocarcinoma,Yes
+3074376932287946098,Lung Cancer,Small Cell,Yes
+2543755268601052565,Melanoma,Squamous Cell,Yes
+6107424952102922600,Lung Cancer,Squamous Cell,Yes
+9112294020156895089,Colon Cancer,Small Cell Carcinoma,Yes
+3475237964987758092,Breast Cancer,Inflammatory,Yes
+8211434222662176781,Prostate Cancer,Non,Yes
+8224773954404084886,Lung Cancer,Lentigo Maligna,Yes
+7601743624062798016,Prostate Cancer,Lentigo Maligna,Yes
+1841131260919210539,Melanoma,Neuroendocrine Tumors,Yes
+1195068263188913463,Prostate Cancer,Lobular Carcinoma,Yes
+7295598171457260922,Breast Cancer,Gastrointestinal Stromal,Yes
+2948339181343516033,Lung Cancer,Adenocarcinoma,Yes
+3753366285984191525,Lung Cancer,Adenocarcinoma,Yes
+4083647146435569900,Colon Cancer,Acral Lentiginous,Yes
+8419954280329575644,Breast Cancer,Ductal Carcinoma,Yes
+2178107186184630351,Melanoma,Superficial Spreading,Yes
+7790690814610785870,Lung Cancer,Triple Negative,Yes
+4104459741574663206,No Cancer,No cáncer,No
+2603073157487826962,Prostate Cancer,Carcinoid,Yes
+1617905724993766955,Breast Cancer,Triple Negative,Yes
+6773445035016293214,Lung Cancer,Lobular Carcinoma,Yes
+8699459544482792008,Prostate Cancer,Squamous Cell,Yes
+584948978259105592,No Cancer,No cáncer,No
+6039140005720483899,Lung Cancer,Acral Lentiginous,Yes
+4574875031427855116,Lung Cancer,Nodular,Yes
+5557940409343314762,Colon Cancer,Lobular Carcinoma,Yes
+8927220223433944535,Colon Cancer,Squamous Cell,Yes
+911000233019433522,Lung Cancer,Non,Yes
+235173678635697812,Lung Cancer,Squamous Cell,Yes
+2449862706714202650,Breast Cancer,Inflammatory,Yes
+6650876671618004034,Colon Cancer,Non,Yes
+953958243499622644,Colon Cancer,Small Cell Carcinoma,Yes
+369028774621413508,Lung Cancer,Nodular,Yes
+2508036737368457155,Melanoma,Carcinoid,Yes
+3200447908370121583,Colon Cancer,Adenocarcinoma,Yes
+5894438929083650362,Lung Cancer,Small Cell Carcinoma,Yes
+9027109589292159192,Lung Cancer,Carcinoid,Yes
+5924007085525267216,Colon Cancer,Carcinoid,Yes
+8227131371494509469,Lung Cancer,Triple Negative,Yes
+1383088934361506160,Lung Cancer,Gastrointestinal Stromal,Yes
+405921181338482861,Prostate Cancer,Small Cell Carcinoma,Yes
+881132639306761877,Colon Cancer,Small Cell Carcinoma,Yes
+4069350912526020008,Lung Cancer,Superficial Spreading,Yes
+7276883308891016590,Prostate Cancer,Ductal Carcinoma,Yes
+8222062929202364417,Melanoma,Ductal Carcinoma,Yes
+1737876083807258849,Melanoma,Inflammatory,Yes
+9174476251890536328,Breast Cancer,Small Cell,Yes
+1070621023309105370,Prostate Cancer,Small Cell Carcinoma,Yes
+6961089989165553080,Prostate Cancer,Neuroendocrine Tumors,Yes
+1723789027455986596,Colon Cancer,Superficial Spreading,Yes
+7828935848807407120,Breast Cancer,Lobular Carcinoma,Yes
+7003998425495180186,Melanoma,Adenocarcinoma,Yes
+713102833023750771,Lung Cancer,Squamous Cell,Yes
+2691730800631846139,Melanoma,Ductal Carcinoma,Yes
+5769184499219823598,Breast Cancer,Superficial Spreading,Yes
+2732617384937100851,Melanoma,Small Cell Carcinoma,Yes
+1713415361318196445,Lung Cancer,Inflammatory,Yes
+78262367159739309,Breast Cancer,Inflammatory,Yes
+7192396722952800315,Lung Cancer,Inflammatory,Yes
+6780201792299515109,Melanoma,Lentigo Maligna,Yes
+1312303113026068794,Colon Cancer,Carcinoid,Yes
+8239475635554029271,Breast Cancer,Nodular,Yes
+8431689014199649528,Melanoma,Lobular Carcinoma,Yes
+2917922288829515084,Melanoma,Superficial Spreading,Yes
+7433434516184899090,Breast Cancer,Squamous Cell,Yes
+260836479491834372,Breast Cancer,Acral Lentiginous,Yes
+7916840774251902109,Prostate Cancer,Gastrointestinal Stromal,Yes
+4541873242679956271,Breast Cancer,Nodular,Yes
+4664225624900597184,Breast Cancer,Acral Lentiginous,Yes
+7489411169210653713,Lung Cancer,Inflammatory,Yes
+1377717697058333148,Breast Cancer,Superficial Spreading,Yes
+2467971256009925215,Breast Cancer,Lobular Carcinoma,Yes
+7367384409663190227,Melanoma,Adenocarcinoma,Yes
+7390469587834968743,Lung Cancer,Nodular,Yes
+1163121128549977732,Prostate Cancer,Superficial Spreading,Yes
+8396243306230335802,Breast Cancer,Carcinoid,Yes
+1335104907403575971,Breast Cancer,Squamous Cell,Yes
+8450663051419399300,Melanoma,Gastrointestinal Stromal,Yes
+4611944176820767593,Prostate Cancer,Triple Negative,Yes
+2290845362614726633,Colon Cancer,Acral Lentiginous,Yes
+8375245090992801474,Lung Cancer,Neuroendocrine Tumors,Yes
+2148031130579921543,Prostate Cancer,Superficial Spreading,Yes
+1004070208382430557,Prostate Cancer,Squamous Cell,Yes
+7502241076114269813,Prostate Cancer,Acral Lentiginous,Yes
+7696455045316117429,Breast Cancer,Non,Yes
+1424162712101636339,Breast Cancer,Triple Negative,Yes
+6064256512246522563,Breast Cancer,Squamous Cell,Yes
+5522948992470800066,No Cancer,No cáncer,No
+695819659744686533,Melanoma,Ductal Carcinoma,Yes
+7082371764463375019,Lung Cancer,Non,Yes
+8907376594471430343,Lung Cancer,Non,Yes
+8790027145248740249,Lung Cancer,Lobular Carcinoma,Yes
+2347861252909038698,Colon Cancer,Inflammatory,Yes
+8190919440226831204,Colon Cancer,Lobular Carcinoma,Yes
+1207504564456594562,Lung Cancer,Superficial Spreading,Yes
+584803682613903085,Breast Cancer,Non,Yes
+8573783380329927116,Lung Cancer,Neuroendocrine Tumors,Yes
+7642100538447600153,Breast Cancer,Non,Yes
+5484649572508023475,Prostate Cancer,Adenocarcinoma,Yes
+5528309721355375603,Melanoma,Lentigo Maligna,Yes
+5374519592706434804,Colon Cancer,Neuroendocrine Tumors,Yes
+7690300029504130158,Prostate Cancer,Squamous Cell,Yes
+7902041172680515356,Colon Cancer,Adenocarcinoma,Yes
+450914469279115426,Lung Cancer,Carcinoid,Yes
+3089349405750199536,Prostate Cancer,Triple Negative,Yes
+4155439671374123912,Breast Cancer,Adenocarcinoma,Yes
+535847720056630230,Melanoma,Acral Lentiginous,Yes
+2269594639458185872,Melanoma,Adenocarcinoma,Yes
+952350857167408735,Melanoma,Ductal Carcinoma,Yes
+54826939558307723,Prostate Cancer,Gastrointestinal Stromal,Yes
+5802549700070469258,Colon Cancer,Neuroendocrine Tumors,Yes
+6591908804731786059,Breast Cancer,Carcinoid,Yes
+963976853334875386,Prostate Cancer,Lentigo Maligna,Yes
+680659309486693017,Prostate Cancer,Nodular,Yes
+5701611066439286255,Prostate Cancer,Gastrointestinal Stromal,Yes
+6486399173115166210,Prostate Cancer,Inflammatory,Yes
+753796715456518593,Colon Cancer,Carcinoid,Yes
+186324612092252321,Lung Cancer,Superficial Spreading,Yes
+4127155206067116577,Prostate Cancer,Triple Negative,Yes
+1109448685940500810,Prostate Cancer,Gastrointestinal Stromal,Yes
+2885318029924393795,Breast Cancer,Small Cell Carcinoma,Yes
+7135440350039801967,Prostate Cancer,Adenocarcinoma,Yes
+2608535387714525320,Colon Cancer,Inflammatory,Yes
+2119968218173876812,Prostate Cancer,Lobular Carcinoma,Yes
+5886584572364538219,Colon Cancer,Acral Lentiginous,Yes
+211710364023213432,Breast Cancer,Adenocarcinoma,Yes
+8890941216584020650,Colon Cancer,Triple Negative,Yes
+2766091511096855667,Breast Cancer,Triple Negative,Yes
+5936574704015562239,Lung Cancer,Triple Negative,Yes
+2728620484994741770,Breast Cancer,Ductal Carcinoma,Yes
+5145992842786231319,Lung Cancer,Neuroendocrine Tumors,Yes
+5372676567727218647,Lung Cancer,Gastrointestinal Stromal,Yes
+7979539321882775061,Lung Cancer,Lentigo Maligna,Yes
+367663035812424235,Colon Cancer,Carcinoid,Yes
+211309327010095691,Colon Cancer,Inflammatory,Yes
+183883780161053967,Prostate Cancer,Acral Lentiginous,Yes
+1461941372628305379,Breast Cancer,Squamous Cell,Yes
+2359109177841043862,Lung Cancer,Triple Negative,Yes
+7639438060710432588,Prostate Cancer,Nodular,Yes
+2147449986410614085,Breast Cancer,Adenocarcinoma,Yes
+3324945319484005272,Colon Cancer,Superficial Spreading,Yes
+7528795132370804209,Melanoma,Lentigo Maligna,Yes
+5406146239438417824,Colon Cancer,Neuroendocrine Tumors,Yes
+6450662980708009654,Prostate Cancer,Superficial Spreading,Yes
+3245363629450855459,Melanoma,Non,Yes
+8859701232638002652,Prostate Cancer,Lobular Carcinoma,Yes
+7234821159465815904,Breast Cancer,Carcinoid,Yes
+462342829568345926,Lung Cancer,Carcinoid,Yes
+8388328000307007294,Colon Cancer,Triple Negative,Yes
+274301909522929482,Colon Cancer,Acral Lentiginous,Yes
+9101045297513395814,Prostate Cancer,Neuroendocrine Tumors,Yes
+3964596378009578809,Melanoma,Gastrointestinal Stromal,Yes
+2375696359827763367,Melanoma,Gastrointestinal Stromal,Yes
+7204703103259146735,Breast Cancer,Inflammatory,Yes
+2227235838130591069,Breast Cancer,Non,Yes
+7307947721708118711,Colon Cancer,Small Cell Carcinoma,Yes
+8986071711797314391,Breast Cancer,Small Cell,Yes
+6484884207997727602,Prostate Cancer,Small Cell,Yes
+7170270963036657343,Breast Cancer,Small Cell,Yes
+6326420028340459943,Melanoma,Lobular Carcinoma,Yes
+1677412343007736144,Colon Cancer,Lentigo Maligna,Yes
+199419358422495779,Colon Cancer,Inflammatory,Yes
+9212755458214378344,Prostate Cancer,Acral Lentiginous,Yes
+874401725783448439,Prostate Cancer,Superficial Spreading,Yes
+1706384330594778120,Lung Cancer,Inflammatory,Yes
+5630868515947714764,Breast Cancer,Triple Negative,Yes
+6151629497985235970,Colon Cancer,Squamous Cell,Yes
+5093737706725847217,Lung Cancer,Nodular,Yes
+4348299790402104859,Breast Cancer,Neuroendocrine Tumors,Yes
+2362633590456555774,Prostate Cancer,Neuroendocrine Tumors,Yes
+5630886163948995235,Melanoma,Nodular,Yes
+2768622362866753488,Melanoma,Lentigo Maligna,Yes
+6153089781065444807,Prostate Cancer,Nodular,Yes
+8037337099094809074,Lung Cancer,Squamous Cell,Yes
+8335009640925872566,Prostate Cancer,Ductal Carcinoma,Yes
+56416821344938068,Lung Cancer,Superficial Spreading,Yes
+8133366747869065604,Breast Cancer,Lobular Carcinoma,Yes
+1977103171962614856,Prostate Cancer,Small Cell Carcinoma,Yes
+407018285466866915,Colon Cancer,Squamous Cell,Yes
+2206202072342200906,Prostate Cancer,Lentigo Maligna,Yes
+2986178234397655941,Lung Cancer,Lobular Carcinoma,Yes
+3459891130403756881,Breast Cancer,Superficial Spreading,Yes
+4739452148057117319,Prostate Cancer,Adenocarcinoma,Yes
+3077148778326277354,Breast Cancer,Non,Yes
+2613231061407058060,Colon Cancer,Gastrointestinal Stromal,Yes
+2605863852898758631,Colon Cancer,Non,Yes
+3144646642670209104,Colon Cancer,Gastrointestinal Stromal,Yes
+2168157232158238255,Prostate Cancer,Superficial Spreading,Yes
+3898835165417171716,Lung Cancer,Lentigo Maligna,Yes
+5758293319369909591,Lung Cancer,Adenocarcinoma,Yes
+6934484354985088390,Prostate Cancer,Lobular Carcinoma,Yes
+289930353143475916,Colon Cancer,Lobular Carcinoma,Yes
+2093800370100900891,Melanoma,Inflammatory,Yes
+3032069008573412138,Lung Cancer,Triple Negative,Yes
+5978765076846481807,Melanoma,Small Cell,Yes
+111342661103487328,Colon Cancer,Carcinoid,Yes
+544332819436660682,Lung Cancer,Ductal Carcinoma,Yes
+2360644057738752586,Colon Cancer,Ductal Carcinoma,Yes
+7762537367765606731,Colon Cancer,Small Cell Carcinoma,Yes
+4050527558273609343,Breast Cancer,Small Cell Carcinoma,Yes
+2283335426250768594,Breast Cancer,Small Cell,Yes
+1323557559398394186,Melanoma,Small Cell,Yes
+761856307793955571,Lung Cancer,Superficial Spreading,Yes
+5618195942136989605,Lung Cancer,Lobular Carcinoma,Yes
+5553868962684186229,Colon Cancer,Triple Negative,Yes
+8408784241500955624,Breast Cancer,Squamous Cell,Yes
+6873200798372774141,Melanoma,Adenocarcinoma,Yes
+651633528328198872,Colon Cancer,Ductal Carcinoma,Yes
+5205640320140793830,Lung Cancer,Carcinoid,Yes
+7236984281946774548,Melanoma,Adenocarcinoma,Yes
+6890766363116942868,Prostate Cancer,Adenocarcinoma,Yes
+5356404387845544298,Lung Cancer,Neuroendocrine Tumors,Yes
+6793920777980074085,Melanoma,Gastrointestinal Stromal,Yes
+6150096395303871917,Colon Cancer,Ductal Carcinoma,Yes
+1886457212059544033,Breast Cancer,Triple Negative,Yes
+6493742444495911169,Prostate Cancer,Neuroendocrine Tumors,Yes
+2154482857874118373,Prostate Cancer,Lentigo Maligna,Yes
+6421989970690889140,Prostate Cancer,Non,Yes
+2059184053895090114,Melanoma,Adenocarcinoma,Yes
+4937929706786422165,Lung Cancer,Small Cell Carcinoma,Yes
+529774883743732733,Melanoma,Squamous Cell,Yes
+2474796037530859393,Breast Cancer,Lobular Carcinoma,Yes
+3996961065082002236,Lung Cancer,Nodular,Yes
+80088873893640334,Colon Cancer,Lentigo Maligna,Yes
+586539171321133269,Lung Cancer,Lentigo Maligna,Yes
+4489700475437696041,Prostate Cancer,Lobular Carcinoma,Yes
+6324628754448274024,Prostate Cancer,Acral Lentiginous,Yes
+6549413061099317395,Melanoma,Superficial Spreading,Yes
+2658687395068381249,Melanoma,Carcinoid,Yes
+6946758422054413545,Prostate Cancer,Small Cell Carcinoma,Yes
+1868552581038334489,Lung Cancer,Squamous Cell,Yes
+1840357008635767575,Melanoma,Small Cell,Yes
+8383846821313536747,Breast Cancer,Small Cell Carcinoma,Yes
+6433589353205719272,Lung Cancer,Adenocarcinoma,Yes
+6755833592929007743,Lung Cancer,Squamous Cell,Yes
+4906921505403453304,Melanoma,Small Cell Carcinoma,Yes
+1555545384161850996,Prostate Cancer,Neuroendocrine Tumors,Yes
+9130566731405078053,Lung Cancer,Neuroendocrine Tumors,Yes
+2908318029523507342,Breast Cancer,Lentigo Maligna,Yes
+951544237714017940,Breast Cancer,Neuroendocrine Tumors,Yes
+737818063694590293,Breast Cancer,Triple Negative,Yes
+8783965976215554461,Lung Cancer,Inflammatory,Yes
+2774550761758386960,Breast Cancer,Squamous Cell,Yes
+8755177699058802646,Colon Cancer,Triple Negative,Yes
+8392977424761881855,Prostate Cancer,Lentigo Maligna,Yes
+2591973021371248870,Lung Cancer,Acral Lentiginous,Yes
+1289952208627387007,Breast Cancer,Neuroendocrine Tumors,Yes
+4968677369385824276,Colon Cancer,Lentigo Maligna,Yes
+6686576836773381803,Prostate Cancer,Ductal Carcinoma,Yes
+7066592882964087384,Colon Cancer,Squamous Cell,Yes
+5090383308416597908,Lung Cancer,Inflammatory,Yes
+4063262134276259736,Colon Cancer,Squamous Cell,Yes
+5836118893382090378,Melanoma,Acral Lentiginous,Yes
+7853398954693460284,Melanoma,Squamous Cell,Yes
+2401042773259773610,Prostate Cancer,Neuroendocrine Tumors,Yes
+1299506629539007470,Breast Cancer,Squamous Cell,Yes
+7446146514569688460,Colon Cancer,Superficial Spreading,Yes
+8337596878456582919,Prostate Cancer,Small Cell Carcinoma,Yes
+1740597440956793386,Lung Cancer,Ductal Carcinoma,Yes
+2753755280289479236,Melanoma,Acral Lentiginous,Yes
+6355199418085148698,Lung Cancer,Nodular,Yes
+3296054618844731871,Prostate Cancer,Non,Yes
+6032374561319642336,Breast Cancer,Gastrointestinal Stromal,Yes
+6493168402564830580,Melanoma,Acral Lentiginous,Yes
+2916484571827232389,Prostate Cancer,Neuroendocrine Tumors,Yes
+1636122174018230782,Melanoma,Small Cell,Yes
+8747951638569044231,Prostate Cancer,Gastrointestinal Stromal,Yes
+6273453059686513032,Lung Cancer,Lobular Carcinoma,Yes
+3859403439740715071,Breast Cancer,Small Cell,Yes
+3801058427441314056,Colon Cancer,Acral Lentiginous,Yes
+7125288108543957652,Colon Cancer,Nodular,Yes
+7316338308606628110,Prostate Cancer,Neuroendocrine Tumors,Yes
+2367843078785543395,Colon Cancer,Superficial Spreading,Yes
+3299292230953715639,Colon Cancer,Adenocarcinoma,Yes
+4188241953082857982,Lung Cancer,Acral Lentiginous,Yes
+2456538927487027791,Melanoma,Ductal Carcinoma,Yes
+3944344628767393624,Melanoma,Superficial Spreading,Yes
+5435541592744416266,Lung Cancer,Ductal Carcinoma,Yes
+6106044918735078394,Lung Cancer,Triple Negative,Yes
+6934515824491265646,Breast Cancer,Neuroendocrine Tumors,Yes
+9169470127786269722,Prostate Cancer,Squamous Cell,Yes
+3764883836314056669,Lung Cancer,Small Cell,Yes
+8800087713666963760,Colon Cancer,Triple Negative,Yes
+6933209380355991107,Prostate Cancer,Non,Yes
+1875765142884779756,Prostate Cancer,Small Cell Carcinoma,Yes
+5479861551225592893,Lung Cancer,Superficial Spreading,Yes
+820958104214141083,Colon Cancer,Lentigo Maligna,Yes
+4034651460517212857,Colon Cancer,Lobular Carcinoma,Yes
+6753456402565789869,Lung Cancer,Inflammatory,Yes
+2459492001826770753,Colon Cancer,Nodular,Yes
+2025998590208018893,Melanoma,Lentigo Maligna,Yes
+5146874489158931042,Melanoma,Neuroendocrine Tumors,Yes
+2890973933172387380,Breast Cancer,Ductal Carcinoma,Yes
+8573366948836300131,Colon Cancer,Acral Lentiginous,Yes
+7111800776221916687,Prostate Cancer,Squamous Cell,Yes
+2143948985581387099,Breast Cancer,Acral Lentiginous,Yes
+2958815528000129213,Melanoma,Lobular Carcinoma,Yes
+4601746152710761205,Colon Cancer,Lentigo Maligna,Yes
+4633238400003005318,Prostate Cancer,Small Cell Carcinoma,Yes
+8759465307977490936,Melanoma,Neuroendocrine Tumors,Yes
+8978702683863046834,Colon Cancer,Ductal Carcinoma,Yes
+8008064980314421741,Colon Cancer,Squamous Cell,Yes
+597013962313292290,Melanoma,Lobular Carcinoma,Yes
+5664316492071584312,Melanoma,Lobular Carcinoma,Yes
+4417150931266155307,Breast Cancer,Ductal Carcinoma,Yes
+3318178807430623691,Breast Cancer,Non,Yes
+5712757344241299507,Colon Cancer,Triple Negative,Yes
+5376932445663768863,Melanoma,Triple Negative,Yes
+4868731218181074673,Breast Cancer,Squamous Cell,Yes
+7652110763938607564,Breast Cancer,Lentigo Maligna,Yes
+2216277637925484890,Melanoma,Ductal Carcinoma,Yes
+5500683763016329419,Breast Cancer,Neuroendocrine Tumors,Yes
+5887831883502176215,Lung Cancer,Small Cell,Yes
+9075990350620069594,Prostate Cancer,Squamous Cell,Yes
+2354869230083951491,Lung Cancer,Ductal Carcinoma,Yes
+5551301335174456002,Lung Cancer,Adenocarcinoma,Yes
+6640123422907993940,Prostate Cancer,Acral Lentiginous,Yes
+5671580013059307403,Lung Cancer,Carcinoid,Yes
+8713864676052477662,Colon Cancer,Superficial Spreading,Yes
+5649307988887983689,Prostate Cancer,Lentigo Maligna,Yes
+9184383761405487055,Breast Cancer,Lentigo Maligna,Yes
+9115977534953375956,Melanoma,Neuroendocrine Tumors,Yes
+7771322390457878303,Colon Cancer,Carcinoid,Yes
+3006470613919956820,Melanoma,Nodular,Yes
+3996123408805459149,Colon Cancer,Small Cell Carcinoma,Yes
+4019884563899657345,Melanoma,Small Cell Carcinoma,Yes
+5486518949854843728,Prostate Cancer,Lentigo Maligna,Yes
+6991512335753318010,Prostate Cancer,Superficial Spreading,Yes
+9059741049854317429,Colon Cancer,Inflammatory,Yes
+7874269852014020245,Lung Cancer,Ductal Carcinoma,Yes
+6645120429414409149,Breast Cancer,Triple Negative,Yes
+5168318739177291693,Breast Cancer,Small Cell Carcinoma,Yes
+8772206945905339221,Colon Cancer,Non,Yes
+5741510853076833031,Prostate Cancer,Acral Lentiginous,Yes
+4754703050574614481,Melanoma,Neuroendocrine Tumors,Yes
+8174368366744738710,Prostate Cancer,Small Cell,Yes
+7016465599948441484,Prostate Cancer,Non,Yes
+8651425057224917800,Colon Cancer,Small Cell,Yes
+7053812789646673763,Prostate Cancer,Gastrointestinal Stromal,Yes
+1643867800915299068,Colon Cancer,Lobular Carcinoma,Yes
+6490286527479648642,Melanoma,Carcinoid,Yes
+7351673238335075083,Colon Cancer,Neuroendocrine Tumors,Yes
+7000232842541500249,Prostate Cancer,Non,Yes
+277717959301061297,Prostate Cancer,Nodular,Yes
+3646774690614239437,Breast Cancer,Non,Yes
+5454181631516588555,Prostate Cancer,Nodular,Yes
+7212831126832789939,Prostate Cancer,Gastrointestinal Stromal,Yes
+9065218459119485384,Colon Cancer,Nodular,Yes
+386836724225767825,Prostate Cancer,Acral Lentiginous,Yes
+8130310932730864731,Prostate Cancer,Non,Yes
+8114678968109106129,Lung Cancer,Non,Yes
+5390593209344537455,Prostate Cancer,Small Cell Carcinoma,Yes
+576958192288729075,Melanoma,Squamous Cell,Yes
+3548125829329020444,Prostate Cancer,Lobular Carcinoma,Yes
+6092009437884997557,Lung Cancer,Superficial Spreading,Yes
+6983098288746372721,Breast Cancer,Ductal Carcinoma,Yes
+8561895628377406114,Breast Cancer,Lentigo Maligna,Yes
+8931968884724908591,Melanoma,Inflammatory,Yes
+4966536966310558922,Prostate Cancer,Adenocarcinoma,Yes
+1829832827100651865,Lung Cancer,Squamous Cell,Yes
+217445733290621234,Prostate Cancer,Small Cell,Yes
+790203550412742212,Breast Cancer,Ductal Carcinoma,Yes
+8408542436469846372,Breast Cancer,Small Cell Carcinoma,Yes
+2444791060568339544,Prostate Cancer,Small Cell,Yes
+310683275810283988,No Cancer,No cáncer,No
+6625095932979866644,Prostate Cancer,Carcinoid,Yes
+4580362165976852227,Lung Cancer,Small Cell,Yes
+3947223302222354136,Prostate Cancer,Small Cell Carcinoma,Yes
+6058772141200583314,Melanoma,Inflammatory,Yes
+3404111355114301928,Colon Cancer,Triple Negative,Yes
+3956176493359331910,Prostate Cancer,Acral Lentiginous,Yes
+6084317949773970826,Breast Cancer,Triple Negative,Yes
+8584883354273651934,Lung Cancer,Non,Yes
+7625318513273530023,Colon Cancer,Acral Lentiginous,Yes
+546026813768706149,Melanoma,Small Cell,Yes
+1960357931803361335,Breast Cancer,Non,Yes
+2515358447896515008,Breast Cancer,Small Cell,Yes
+6970862747720032672,Breast Cancer,Non,Yes
+4411522491512663946,Lung Cancer,Carcinoid,Yes
+7999252032680489856,Colon Cancer,Adenocarcinoma,Yes
+980101667151518285,Breast Cancer,Non,Yes
+8762095845418130423,Prostate Cancer,Nodular,Yes
+6296456723443447185,Lung Cancer,Ductal Carcinoma,Yes
+3897484854354816348,Lung Cancer,Small Cell,Yes
+75622201729226061,Lung Cancer,Nodular,Yes
+4385284743166983741,Colon Cancer,Superficial Spreading,Yes
+4546002417019231136,Prostate Cancer,Non,Yes
+7228146464516520949,Prostate Cancer,Triple Negative,Yes
+8249878775439932396,Prostate Cancer,Adenocarcinoma,Yes
+5668708894106734164,Prostate Cancer,Squamous Cell,Yes
+4150460745606097432,Colon Cancer,Triple Negative,Yes
+8985106004841529267,Breast Cancer,Gastrointestinal Stromal,Yes
+427042237236160166,Breast Cancer,Acral Lentiginous,Yes
+3574745585785362685,Colon Cancer,Small Cell Carcinoma,Yes
+8554623569882798472,No Cancer,No cáncer,No
+7944560306706940354,Lung Cancer,Acral Lentiginous,Yes
+4545333693557130481,Prostate Cancer,Superficial Spreading,Yes
+5081058615153180669,Lung Cancer,Lentigo Maligna,Yes
+6333147602906005847,Colon Cancer,Non,Yes
+1741629578189889542,Melanoma,Superficial Spreading,Yes
+8959265035613985426,Lung Cancer,Lentigo Maligna,Yes
+297841877607101295,Prostate Cancer,Inflammatory,Yes
+2587653056874568878,Breast Cancer,Small Cell Carcinoma,Yes
+2668438829411288396,Breast Cancer,Neuroendocrine Tumors,Yes
+5776686779664096868,Colon Cancer,Gastrointestinal Stromal,Yes
+7956754795144831228,Melanoma,Ductal Carcinoma,Yes
+8834633498326057151,Lung Cancer,Nodular,Yes
+7966146055349170013,Lung Cancer,Lobular Carcinoma,Yes
+3564938210884102060,Lung Cancer,Neuroendocrine Tumors,Yes
+3558963469301171162,Lung Cancer,Acral Lentiginous,Yes
+1843129997750980460,Colon Cancer,Squamous Cell,Yes
+3979152836319806853,Melanoma,Non,Yes
+4184519226710232445,Prostate Cancer,Non,Yes
+4999422283449862738,Colon Cancer,Non,Yes
+6993789367233175245,Lung Cancer,Small Cell,Yes
+4624148502369625872,Melanoma,Carcinoid,Yes
+9006601757420433508,Lung Cancer,Adenocarcinoma,Yes
+613851198070905557,Breast Cancer,Triple Negative,Yes
+7485168954801562034,Breast Cancer,Adenocarcinoma,Yes
+8135211068576075848,Breast Cancer,Small Cell,Yes
+926341515059365873,Prostate Cancer,Non,Yes
+8473175801248928483,Melanoma,Inflammatory,Yes
+8377139480921385769,Breast Cancer,Carcinoid,Yes
+2541773871611353908,Breast Cancer,Lobular Carcinoma,Yes
+981855452758727436,Breast Cancer,Neuroendocrine Tumors,Yes
+3704446740696059546,Lung Cancer,Gastrointestinal Stromal,Yes
+3434710604637584656,Lung Cancer,Neuroendocrine Tumors,Yes
+3775642628157068475,Colon Cancer,Adenocarcinoma,Yes
+278094925861583466,Lung Cancer,Non,Yes
+5404093838298033849,Prostate Cancer,Nodular,Yes
+3602846816865140475,Breast Cancer,Neuroendocrine Tumors,Yes
+5110614042377587792,Prostate Cancer,Squamous Cell,Yes
+4273781911351972905,Prostate Cancer,Lobular Carcinoma,Yes
+9114844604105880623,Melanoma,Acral Lentiginous,Yes
+7870150729039821176,Prostate Cancer,Ductal Carcinoma,Yes
+366828185859144793,Melanoma,Acral Lentiginous,Yes
+6508567856715466917,Breast Cancer,Acral Lentiginous,Yes
+8309533427208936298,Melanoma,Gastrointestinal Stromal,Yes
+4720618170874077153,Melanoma,Acral Lentiginous,Yes
+7720456500200870421,Prostate Cancer,Carcinoid,Yes
+5515486643384796007,Breast Cancer,Squamous Cell,Yes
+301231816349793770,Melanoma,Adenocarcinoma,Yes
+599365639688361515,Prostate Cancer,Nodular,Yes
+9217357121345840189,Colon Cancer,Nodular,Yes
+776099117333140748,Melanoma,Carcinoid,Yes
+8269952923948996073,Colon Cancer,Carcinoid,Yes
+5003529102560540706,Prostate Cancer,Small Cell Carcinoma,Yes
+232405647742171331,Prostate Cancer,Inflammatory,Yes
+8935457960703581999,Colon Cancer,Lentigo Maligna,Yes
+9033419249433001930,Melanoma,Inflammatory,Yes
+5872585235035642578,Prostate Cancer,Small Cell Carcinoma,Yes
+5736064646480894955,Melanoma,Gastrointestinal Stromal,Yes
+7118751399554403540,Colon Cancer,Triple Negative,Yes
+7142904956902694580,Colon Cancer,Acral Lentiginous,Yes
+3094980988496286564,Colon Cancer,Squamous Cell,Yes
+4741938370018869427,Lung Cancer,Nodular,Yes
+7203546843161133200,Colon Cancer,Superficial Spreading,Yes
+442515454015596470,Lung Cancer,Non,Yes
+1698694582494138359,Prostate Cancer,Squamous Cell,Yes
+3593573628241570747,Prostate Cancer,Lentigo Maligna,Yes
+5677152508209721319,Colon Cancer,Small Cell Carcinoma,Yes
+2848985849549613921,Breast Cancer,Nodular,Yes
+1463571950105936695,Colon Cancer,Nodular,Yes
+2606725457661582941,Melanoma,Small Cell Carcinoma,Yes
+2000842547390209672,Prostate Cancer,Small Cell,Yes
+1995523236201231660,Colon Cancer,Lentigo Maligna,Yes
+389088825289468508,Breast Cancer,Acral Lentiginous,Yes
+7864405641742822195,Breast Cancer,Non,Yes
+1963905090315768651,Prostate Cancer,Lobular Carcinoma,Yes
+6307950312540779635,Lung Cancer,Squamous Cell,Yes
+3391264796007481033,Breast Cancer,Squamous Cell,Yes
+8391820057833934024,Prostate Cancer,Acral Lentiginous,Yes
+2337085415301364589,Prostate Cancer,Superficial Spreading,Yes
+3260458221791058995,Melanoma,Squamous Cell,Yes
+7143524833225345870,Prostate Cancer,Adenocarcinoma,Yes
+2191004171169232477,Colon Cancer,Acral Lentiginous,Yes
+5428876765864793229,Melanoma,Lobular Carcinoma,Yes
+4219910828125668650,Melanoma,Nodular,Yes
+1364381289681967706,Colon Cancer,Nodular,Yes
+4126006361702465457,Melanoma,Inflammatory,Yes
+4406194154591308882,Prostate Cancer,Small Cell Carcinoma,Yes
+78727763743123220,Prostate Cancer,Acral Lentiginous,Yes
+3350874542638537610,Breast Cancer,Non,Yes
+3005320175680372126,Prostate Cancer,Small Cell,Yes
+2952242532737932239,Prostate Cancer,Lobular Carcinoma,Yes
+371408149409411638,Melanoma,Non,Yes
+4935339043712519596,Melanoma,Lentigo Maligna,Yes
+1708356187504902793,Prostate Cancer,Lobular Carcinoma,Yes
+2616663728405392257,Melanoma,Triple Negative,Yes
+3481962446019429525,Breast Cancer,Nodular,Yes
+6715879118668981568,Melanoma,Lobular Carcinoma,Yes
+3927819423349338554,Breast Cancer,Superficial Spreading,Yes
+7657447960347737719,Lung Cancer,Carcinoid,Yes
+4469186817897609389,Prostate Cancer,Squamous Cell,Yes
+4405364733894671927,Colon Cancer,Superficial Spreading,Yes
+3056985261607464245,Prostate Cancer,Acral Lentiginous,Yes
+2928962847202971422,Colon Cancer,Squamous Cell,Yes
+1055607466428194306,Lung Cancer,Squamous Cell,Yes
+5968691176834950269,Lung Cancer,Ductal Carcinoma,Yes
+43273420738834881,Lung Cancer,Gastrointestinal Stromal,Yes
+660082678726909518,Lung Cancer,Squamous Cell,Yes
+8925795199782045574,Colon Cancer,Lentigo Maligna,Yes
+8276998270715423469,Lung Cancer,Small Cell,Yes
+7242450141863097231,Colon Cancer,Non,Yes
+9049527011320044970,Breast Cancer,Carcinoid,Yes
+8669225557638938727,Colon Cancer,Triple Negative,Yes
+5896621998358330331,Breast Cancer,Small Cell Carcinoma,Yes
+2802780827465773341,Prostate Cancer,Gastrointestinal Stromal,Yes
+8872463426823290643,Prostate Cancer,Ductal Carcinoma,Yes
+9116393828899225155,Breast Cancer,Small Cell Carcinoma,Yes
+266433695368509631,Lung Cancer,Carcinoid,Yes
+970018723533608682,Lung Cancer,Gastrointestinal Stromal,Yes
+2554802449206553648,Lung Cancer,Small Cell Carcinoma,Yes
+786726956901504166,Lung Cancer,Nodular,Yes
+8161531281462936512,Breast Cancer,Nodular,Yes
+3681018448416571915,Lung Cancer,Lentigo Maligna,Yes
+8506803181634095011,Lung Cancer,Non,Yes
+2876467344251686741,Breast Cancer,Gastrointestinal Stromal,Yes
+2145388728485448813,Breast Cancer,Superficial Spreading,Yes
+4274683929715643615,Prostate Cancer,Squamous Cell,Yes
+6560522470126617449,Melanoma,Neuroendocrine Tumors,Yes
+1372620649479262412,Melanoma,Small Cell,Yes
+7521340543959974310,Lung Cancer,Non,Yes
+8477987689535890332,Breast Cancer,Neuroendocrine Tumors,Yes
+1872129771589996867,Prostate Cancer,Inflammatory,Yes
+4730500973057704573,Prostate Cancer,Gastrointestinal Stromal,Yes
+9002897758630337935,Melanoma,Small Cell,Yes
+1452451900471904439,Prostate Cancer,Superficial Spreading,Yes
+2425078669322165045,Breast Cancer,Acral Lentiginous,Yes
+8585871257912209062,Breast Cancer,Inflammatory,Yes
+3756961512245793516,Colon Cancer,Inflammatory,Yes
+2929854773999762942,Prostate Cancer,Ductal Carcinoma,Yes
+1697213823873261933,Prostate Cancer,Neuroendocrine Tumors,Yes
+6754686952837410034,Lung Cancer,Lobular Carcinoma,Yes
+3650685995145564320,Lung Cancer,Adenocarcinoma,Yes
+7654198402300900839,Colon Cancer,Triple Negative,Yes
+8235493325406642721,Colon Cancer,Superficial Spreading,Yes
+8888039452641181504,Lung Cancer,Small Cell,Yes
+3011750380691888993,Lung Cancer,Carcinoid,Yes
+873519208135417394,Prostate Cancer,Nodular,Yes
+2041964590306241980,Melanoma,Gastrointestinal Stromal,Yes
+4770370030763442267,Melanoma,Superficial Spreading,Yes
+2289961735682250130,Melanoma,Lobular Carcinoma,Yes
+4723851472533889291,Melanoma,Gastrointestinal Stromal,Yes
+2548235421269382595,Lung Cancer,Acral Lentiginous,Yes
+6106623596742203834,Lung Cancer,Superficial Spreading,Yes
+1743877661229874189,Prostate Cancer,Non,Yes
+2414468770165571526,Melanoma,Superficial Spreading,Yes
+6812664055333042986,Melanoma,Lobular Carcinoma,Yes
+8992971497276387959,Colon Cancer,Superficial Spreading,Yes
+8886656867048846614,Lung Cancer,Lentigo Maligna,Yes
+6070356266904933906,Breast Cancer,Inflammatory,Yes
+6812367604108348522,Melanoma,Triple Negative,Yes
+4060021020736924600,Breast Cancer,Adenocarcinoma,Yes
+8680160434209830001,Colon Cancer,Ductal Carcinoma,Yes
+7073386740527476512,Colon Cancer,Gastrointestinal Stromal,Yes
+1660478411199262078,Lung Cancer,Carcinoid,Yes
+4730830857837694357,Prostate Cancer,Carcinoid,Yes
+8049088543332300829,Colon Cancer,Triple Negative,Yes
+4648803959264180330,Colon Cancer,Lobular Carcinoma,Yes
+8858801261108216947,Colon Cancer,Non,Yes
+4390189201322244407,Melanoma,Non,Yes
+3690631509350880687,Colon Cancer,Acral Lentiginous,Yes
+3339116374449623415,Melanoma,Nodular,Yes
+2556537578142518941,Colon Cancer,Lobular Carcinoma,Yes
+3320328901640268789,Lung Cancer,Gastrointestinal Stromal,Yes
+3979502492879021407,Prostate Cancer,Lentigo Maligna,Yes
+2905517195813296987,Melanoma,Nodular,Yes
+1669209486226823541,Prostate Cancer,Nodular,Yes
+869108340301400391,Melanoma,Adenocarcinoma,Yes
+7282587912265513398,Lung Cancer,Adenocarcinoma,Yes
+6535984713168895867,Lung Cancer,Gastrointestinal Stromal,Yes
+5482493793767540313,Breast Cancer,Ductal Carcinoma,Yes
+2425489645252951543,Breast Cancer,Inflammatory,Yes
+2019753184343190987,Prostate Cancer,Squamous Cell,Yes
+7451578001908946036,Prostate Cancer,Nodular,Yes
+6880753888433600336,Prostate Cancer,Squamous Cell,Yes
+6677938998795724199,Prostate Cancer,Superficial Spreading,Yes
+5477044999229057355,Melanoma,Non,Yes
+5391483423125792806,Colon Cancer,Ductal Carcinoma,Yes
+3551181102746303892,Colon Cancer,Lentigo Maligna,Yes
+1812136227594186778,Melanoma,Neuroendocrine Tumors,Yes
+3942666043439610208,Colon Cancer,Inflammatory,Yes
+1949420154552646197,Breast Cancer,Carcinoid,Yes
+3718903379207089720,Lung Cancer,Inflammatory,Yes
+1958182527150682545,Colon Cancer,Inflammatory,Yes
+7526604937379531218,Colon Cancer,Small Cell Carcinoma,Yes
+8999837394343935353,Lung Cancer,Ductal Carcinoma,Yes
+551483653112940838,Melanoma,Neuroendocrine Tumors,Yes
+6041396733757751061,Colon Cancer,Adenocarcinoma,Yes
+3814449825761762632,Prostate Cancer,Adenocarcinoma,Yes
+8069633341409148294,Breast Cancer,Neuroendocrine Tumors,Yes
+176676678797826839,Colon Cancer,Squamous Cell,Yes
+8327589898695838022,Lung Cancer,Lobular Carcinoma,Yes
+1011734967906440719,Breast Cancer,Superficial Spreading,Yes
+7739640598428376814,Breast Cancer,Non,Yes
+2861442009208142139,Prostate Cancer,Squamous Cell,Yes
+444739401966273144,Melanoma,Ductal Carcinoma,Yes
+7933991825466300272,Prostate Cancer,Adenocarcinoma,Yes
+6285833095726807918,Melanoma,Inflammatory,Yes
+1221042953098125939,Prostate Cancer,Superficial Spreading,Yes
+6925406352519603699,Lung Cancer,Neuroendocrine Tumors,Yes
+4286817044655786611,Prostate Cancer,Lentigo Maligna,Yes
+1462784701553491724,Prostate Cancer,Squamous Cell,Yes
+2392637789796158699,Melanoma,Adenocarcinoma,Yes
+6641513726993838244,Breast Cancer,Superficial Spreading,Yes
+8707995970312780163,Prostate Cancer,Superficial Spreading,Yes
+2739014050221738159,Breast Cancer,Neuroendocrine Tumors,Yes
+3640074172387688288,Prostate Cancer,Carcinoid,Yes
+3772884242266980305,Prostate Cancer,Superficial Spreading,Yes
+741644223161017663,Colon Cancer,Small Cell,Yes
+421041898004997559,Colon Cancer,Lentigo Maligna,Yes
+6293831060999789018,Melanoma,Superficial Spreading,Yes
+3751766494064334991,Colon Cancer,Nodular,Yes
+1552384521959601476,Melanoma,Triple Negative,Yes
+1658813643196830967,Colon Cancer,Nodular,Yes
+6381652063029592963,Melanoma,Inflammatory,Yes
+2808154766786822556,Melanoma,Squamous Cell,Yes
+4587302460516505592,Lung Cancer,Nodular,Yes
+2394664951802111805,Melanoma,Neuroendocrine Tumors,Yes
+4548918432028058148,Breast Cancer,Small Cell,Yes
+8403715828028297807,No Cancer,No cáncer,No
+469795282576211045,Colon Cancer,Acral Lentiginous,Yes
+2563740645590744860,Colon Cancer,Small Cell,Yes
+1484550729526330394,Colon Cancer,Lobular Carcinoma,Yes
+1090365274792637911,Lung Cancer,Squamous Cell,Yes
+1321657308662948437,Lung Cancer,Small Cell Carcinoma,Yes
+4624548843501479334,Lung Cancer,Superficial Spreading,Yes
+601662010245840756,Colon Cancer,Lentigo Maligna,Yes
+4957540847312473310,Lung Cancer,Small Cell,Yes
+6082474102931820253,No Cancer,No cáncer,No
+5776581764785517371,Breast Cancer,Inflammatory,Yes
+1527124829294288566,Colon Cancer,Lentigo Maligna,Yes
+3194587942392123063,Breast Cancer,Inflammatory,Yes
+816224657138565257,Colon Cancer,Small Cell,Yes
+2036853240056963041,Colon Cancer,Nodular,Yes
+2023995931082955200,Lung Cancer,Carcinoid,Yes
+2408193602320593884,Lung Cancer,Non,Yes
+810454084841176321,Colon Cancer,Gastrointestinal Stromal,Yes
+3791321662060403521,Lung Cancer,Small Cell Carcinoma,Yes
+7414100061447794128,Colon Cancer,Small Cell Carcinoma,Yes
+7393436269771412150,Lung Cancer,Carcinoid,Yes
+2544757666971080646,Prostate Cancer,Small Cell Carcinoma,Yes
+7035043675558308782,Breast Cancer,Squamous Cell,Yes
+7970520971237050863,Melanoma,Gastrointestinal Stromal,Yes
+2045630837797027414,Breast Cancer,Nodular,Yes
+2204437963451527929,Breast Cancer,Triple Negative,Yes
+7890853880798012828,No Cancer,No cáncer,No
+1432997584143914814,Melanoma,Acral Lentiginous,Yes
+7319738222548449682,Melanoma,Ductal Carcinoma,Yes
+6311214521114041563,Prostate Cancer,Adenocarcinoma,Yes
+5938166603207928718,Lung Cancer,Inflammatory,Yes
+943446383460330513,Melanoma,Carcinoid,Yes
+8031693067066725099,Prostate Cancer,Small Cell,Yes
+255910542987160313,Prostate Cancer,Small Cell,Yes
+9031814691457877655,Breast Cancer,Small Cell Carcinoma,Yes
+6705662989252526729,Lung Cancer,Gastrointestinal Stromal,Yes
+169077245511507133,Lung Cancer,Acral Lentiginous,Yes
+4347766283281022254,Melanoma,Gastrointestinal Stromal,Yes
+1493557869494177615,Colon Cancer,Inflammatory,Yes
